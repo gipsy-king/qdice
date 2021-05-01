@@ -68,7 +68,7 @@
     "worker-loader": "^1.1.0"
   },
   "devDependencies": {
-    "electron": "^7.1.7",
+    "electron": "^9.4.0",
     "electron-fetch": "^1.4.0",
     "elm-format": "^0.8.1",
     "webpack-dev-server": "^2.9.7"
